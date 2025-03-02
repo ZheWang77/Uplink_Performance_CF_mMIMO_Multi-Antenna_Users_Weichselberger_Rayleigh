@@ -19,8 +19,8 @@ The package includes the source codes applied in this paper.
 This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article:
 
 @ARTICLE{04962,
-author={Wang, Zhe and Zhang, Jiayi and Ai, Bo and Yuen, Chau and Debbah, M¨¦rouane},
-journal={IEEE Trans. Wireless Commun.},
+author={Wang, Zhe and Zhang, Jiayi and Ai, Bo and Yuen, Chau and Debbah, Merouane},\\
+journal={IEEE Trans. Wireless Commun.},\\
 title={Uplink Performance of Cell-Free Massive {MIMO} With Multi-Antenna Users Over Jointly-Correlated {R}ayleigh Fading Channels},
 year={2022},
 month = {Sep.},
