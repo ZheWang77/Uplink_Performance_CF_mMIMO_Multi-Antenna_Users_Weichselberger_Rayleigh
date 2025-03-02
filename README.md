@@ -18,6 +18,7 @@ The package includes the source codes applied in this paper.
 
 This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article:
 
+```
 @ARTICLE{04962,
 author={Wang, Zhe and Zhang, Jiayi and Ai, Bo and Yuen, Chau and Debbah, Merouane},\\
 journal={IEEE Trans. Wireless Commun.},\\
@@ -28,3 +29,4 @@ volume={21},
 number={9},
 pages={7391-7406},
 doi={10.1109/TWC.2022.3158353}}
+```
