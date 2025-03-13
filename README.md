@@ -2,7 +2,7 @@
 
 This is a code package is related to the following scientific article:
 
-Z. Wang, J. Zhang, B. Ai, C. Yuen and M. Debbah, "Uplink Performance of Cell-Free Massive MIMO With Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels," in IEEE Transactions on Wireless Communications, vol. 21, no. 9, pp. 7391-7406, Sep. 2022.
+Z. Wang, J. Zhang, B. Ai, C. Yuen, and M. Debbah, "Uplink Performance of Cell-Free Massive MIMO With Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels," in IEEE Transactions on Wireless Communications, vol. 21, no. 9, pp. 7391-7406, Sep. 2022.
 
 Available at: https://arxiv.org/abs/2110.04962
 
